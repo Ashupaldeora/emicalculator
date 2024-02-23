@@ -89,7 +89,7 @@ class _drawerState extends State<drawer> {
               ListTile(
                   leading: const Icon(Icons.payment_outlined),
                   title: Text(
-                    " Payments",
+                    "Payments",
                     style: TextStyle(
                         fontWeight: FontWeight.w400,
                         fontSize: 22,
@@ -100,7 +100,7 @@ class _drawerState extends State<drawer> {
               ListTile(
                   leading: const Icon(Icons.settings),
                   title: Text(
-                    " Settings",
+                    "Settings",
                     style: TextStyle(
                         fontWeight: FontWeight.w400,
                         fontSize: 22,
